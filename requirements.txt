@@ -5,7 +5,5 @@ scikit-learn==1.7.2
 gensim==4.3.2
 joblib==1.5.2
 tornado==6.1
-
-# Optional (only add if you need them)
-# shap==0.42.1
-# tensorflow==2.12.0
+shap==0.42.1
+tensorflow==2.12.0
